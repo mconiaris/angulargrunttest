@@ -1,0 +1,19 @@
+{
+  "name": "trackingthedeb",
+  "version": "1.0.0",
+  "description": "A Website testing Angular, Bootstrap, Grunt and Bower.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mconiaris/angulargrunttest.git"
+  },
+  "author": "Michael Coniaris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mconiaris/angulargrunttest/issues"
+  },
+  "homepage": "https://github.com/mconiaris/angulargrunttest#readme"
+}
