@@ -1,4 +1,5 @@
 Tutorial: http://blog.elenakolevska.com/using-grunt-with-laravel-and-bootstrap/
+- Start with "Frontend dependencies section"
 
 
 
