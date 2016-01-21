@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mconiaris/angulargrunttest/issues"
   },
-  "homepage": "https://github.com/mconiaris/angulargrunttest#readme"
+  "homepage": "https://github.com/mconiaris/angulargrunttest#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
