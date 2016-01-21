@@ -1,1 +1,6 @@
 Tutorial: http://blog.elenakolevska.com/using-grunt-with-laravel-and-bootstrap/
+
+
+
+Notes:
+Running npm install grunt-xx-xx --save-dev: That will install the dependencies and because we defined the --save-dev flag it will add them to the package.json file.
